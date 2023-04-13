@@ -1,5 +1,9 @@
 # My Projects
 
+## HTML & CSS & JavaScript
+
+- [Hire-me](https://walid-allaf.github.io/Hire-me/)
+
 ## HTML & CSS
 
 - [Leon](https://walid-allaf.github.io/Leon)
