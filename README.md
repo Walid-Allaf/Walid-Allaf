@@ -1,5 +1,9 @@
 # My Projects
 
+## React
+
+- [GPT3-OpenAI](https://walid-allaf.github.io/GPT3-OpenAI/)
+
 ## HTML & CSS & JavaScript
 
 - [Hire-me](https://walid-allaf.github.io/Hire-me/)
