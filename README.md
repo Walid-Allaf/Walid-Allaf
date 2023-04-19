@@ -7,6 +7,9 @@
 ## HTML & CSS & JavaScript
 
 - [Hire-me](https://walid-allaf.github.io/Hire-me/)
+- [Special-Template](https://walid-allaf.github.io/Special-template/)
+- [ToDo-list-app](https://walid-allaf.github.io/ToDo-list-app/)
+- [Notes-app](https://walid-allaf.github.io/Notes-app/)
 
 ## HTML & CSS(Bootstrap)
 
