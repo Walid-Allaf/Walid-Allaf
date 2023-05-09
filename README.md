@@ -27,7 +27,7 @@
 
 #### React
 
-- [Gericht Restuarant](https://react-gericht-resturant.netlify.app/) (SCSS)
+- [Gericht Restuarant](https://react-gericht-resturant.netlify.app/)
 - [GPT3-OpenAI](https://walid-allaf.github.io/GPT3-OpenAI/)
 
 #### HTML & CSS & JavaScript
