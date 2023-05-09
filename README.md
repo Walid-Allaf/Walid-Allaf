@@ -28,14 +28,14 @@
 #### React
 
 - [Gericht Restuarant](https://react-gericht-resturant.netlify.app/)
-- [GPT3-OpenAI](https://walid-allaf.github.io/GPT3-OpenAI/)
+- [GPT3 OpenAI](https://walid-allaf.github.io/GPT3-OpenAI/)
 
 #### HTML & CSS & JavaScript
 
 - [Hire-me](https://walid-allaf.github.io/Hire-me/)
-- [Special-Template](https://walid-allaf.github.io/Special-template/)
-- [ToDo-list-app](https://walid-allaf.github.io/ToDo-list-app/)
-- [Notes-app](https://walid-allaf.github.io/Notes-app/)
+- [Special Template](https://walid-allaf.github.io/Special-template/)
+- [ToDo List App](https://walid-allaf.github.io/ToDo-list-app/)
+- [Notes App](https://walid-allaf.github.io/Notes-app/)
 
 #### HTML & CSS(Bootstrap)
 
